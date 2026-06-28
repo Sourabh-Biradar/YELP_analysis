@@ -63,7 +63,7 @@ Run the following files in sequence:
 
 #### Business Dataset
 
-* **150,346** business records
+* **1,50,346** business records
 * **14** fields
 
 ---
